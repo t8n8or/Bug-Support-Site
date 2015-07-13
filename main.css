@@ -1,0 +1,15 @@
+.linknav ul li{
+    color: #000000;
+    list-style-type: none;
+    display: inline;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 10px;
+    font-size: 20px;
+    line-height: 3em;
+}
+
+.linknav ul li a {
+    color: #ffffff;   
+    font-weight: 100;
+}
