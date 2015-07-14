@@ -17,10 +17,12 @@
 .light {
     color: #ffffff;  
     font-weight: 100;
+    font-size: 18px;
 }
 
 .home {
     padding-left: 50px;
+    font-size: 30px;
 }
 
 .HomeTop {
@@ -37,4 +39,9 @@
     width: 700px;
     margin: auto;
     text-align: center;
+}
+
+.bodytext {
+    text-align: center;
+    color: #000000;
 }
