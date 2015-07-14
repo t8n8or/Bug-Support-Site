@@ -56,6 +56,10 @@
     padding-right:0;
 }
 
-footer {
-    
+.footerpadding {
+    padding-left: 50px;
+}
+
+.footerrightpadding {
+    padding-right: 50px;
 }
