@@ -19,8 +19,22 @@
     font-weight: 100;
 }
 
+.home {
+    padding-left: 50px;
+}
+
 .HomeTop {
-    background-image: url('img/HomeOne.jpg');
+    background-image: url(img/HomeOne.jpg);
     background-repeat: no-repeat;
     background-size: cover; 
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:0;
+    padding-right:0;
+}
+
+.center {
+    width: 700px;
+    margin: auto;
+    text-align: center;
 }
