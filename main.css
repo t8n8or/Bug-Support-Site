@@ -1,5 +1,5 @@
 .linknav ul li{
-    color: #000000;
+    color: #ffffff;
     list-style-type: none;
     display: inline;
     text-align: center;
@@ -10,11 +10,17 @@
 }
 
 .linknav ul li a {
-    color: #000000;   
+    color: #ffffff;   
     font-weight: 100;
 }
 
 .light {
-    color: #000000;  
+    color: #ffffff;  
     font-weight: 100;
+}
+
+.HomeTop {
+    background-image: url('img/HomeOne.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
 }
