@@ -35,6 +35,27 @@
     padding-right:0;
 }
 
+.UsersTop {
+    background-image: url(img/HomeThree.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:0;
+    padding-right:0;
+}
+
+.DevTop {
+    background-image: url(img/HomeFive.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:0;
+    padding-right:0;
+}
+
+
 .center {
     width: 700px;
     margin: auto;
@@ -55,6 +76,27 @@
     padding-left:0;
     padding-right:0;
 }
+
+.UsersHalf {
+    background-image: url(img/HomeFour.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:0;
+    padding-right:0;
+}
+
+.DevHalf {
+    background-image: url(img/HomeSix.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:0;
+    padding-right:0;
+}
+
 
 .footerpadding {
     padding-left: 50px;
