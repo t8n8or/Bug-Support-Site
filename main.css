@@ -55,6 +55,17 @@
     padding-right:0;
 }
 
+.ContactTop {
+    background-image: url(img/HomeFive.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:0;
+    padding-right:0;
+}
+
+
 
 .center {
     width: 700px;
@@ -105,3 +116,7 @@
 .footerrightpadding {
     padding-right: 50px;
 }
+
+.contactform {
+    width: 500px;
+}   
